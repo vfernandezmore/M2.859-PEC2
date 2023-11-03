@@ -8,7 +8,7 @@ Para esta representación se ha utilizado la base de datos *esoph*, la cual pert
 
 Para este tipo de gráfico, se ha decidido representar el número de casos positivos en comparación con el número de pruebas realizadas en función de la cantidad de tabaco que se consume diariamente. El gráfico es el siguiente:
 
-![barplot](C:/Users/ZeDNa/OneDrive/Documentos/GitHub/M2.859-PEC2/M2.859-PEC2/Imágenes/barplot.png)
+![barplot](https://github.com/vfernandezmore/M2.859-PEC2/tree/main/Im%C3%A1genes/barplot.png)
 
 ## Xarxa Plot
 
@@ -16,7 +16,7 @@ Debido a que esta representación no proviene de una base de datos convencional,
 
 En este gráfico se representa el diseño de una red corporativa.
 
-![xarxaplot](C:/Users/ZeDNa/OneDrive/Documentos/GitHub/M2.859-PEC2/M2.859-PEC2/Imágenes/xarxaplot.png)
+![xarxaplot](https://github.com/vfernandezmore/M2.859-PEC2/tree/main/Im%C3%A1genes/xarxaplot.PNG)
 
 ## Ridgeline Plot
 
@@ -24,5 +24,5 @@ Para esta representación se ha optado por utilizar una base de datos bastante c
 
 En este gráfico se representa como se distribuye la variable Petal.Length en función de la especie
 
-![ridgeplot](C:/Users/ZeDNa/OneDrive/Documentos/GitHub/M2.859-PEC2/M2.859-PEC2/Imágenes/ridgeplot.png)
+![ridgeplot](https://github.com/vfernandezmore/M2.859-PEC2/tree/main/Im%C3%A1genes/ridgeplot.png)
 
